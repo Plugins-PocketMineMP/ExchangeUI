@@ -1,2 +1,2 @@
 # ExchangeUI
-A PocketMine-mP Plugin | ExchangeUI
+A PocketMine-MP Plugin | ExchangeUI
